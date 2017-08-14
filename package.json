@@ -1,0 +1,32 @@
+{
+  "name": "parallel_webdriverio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma-bo-do-fu/parallel_webdriverio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ma-bo-do-fu/parallel_webdriverio/issues"
+  },
+  "homepage": "https://github.com/ma-bo-do-fu/parallel_webdriverio#readme",
+  "devDependencies": {
+    "co-mocha": "^1.2.0",
+    "eslint": "^4.4.1",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0",
+    "webdriverio": "^4.8.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
